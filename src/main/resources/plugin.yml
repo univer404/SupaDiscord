@@ -1,0 +1,12 @@
+name: SupaDiscord
+version: 1.0.0
+main: com.supadiscord.SupaDiscord
+api-version: '1.21'
+author: univer404
+description: A lightweight clickable Discord invitation command.
+
+commands:
+  discord:
+    description: Shows the server Discord invitation.
+    usage: /discord
+    aliases: [dc]
